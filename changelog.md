@@ -3,6 +3,7 @@ All notable changes to this project will be documented in this file.
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 
+
 ## [3.00] - 2010-10-25
 ### Added
 - Added difficulty levels
@@ -52,6 +53,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 ### Fixed
 - Rewrote the PGN parser to handle bigger PGN files and to be more
   compliant with PGN specifications.
+
 
 ## [2.05]
 ### Added
@@ -104,6 +106,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 - Player against player and Design Mode menu -> Selecting the menu get unsynchronize with the real state
   (or why you must never set the IsCheckable property to true when you have an accelerator key)
 - Typo in dialog title 'Test Board Avaluators' corrected to 'Test Board Evaluator'
+
 
 ## [2.00]
 ### Changed
