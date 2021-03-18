@@ -7,6 +7,8 @@ I do not maintain this program, only this repo. If you have an issue, please con
 - This readme file is new (the old readme became the changelog).
   - Move the changes before 1.0 from here to the bottom of the changelog.
 
+2021-03-18 I e-mailed Jacques Fournier to ask about making him an admin of this repo and to inform him of this repo.
+
 Sections below summarize the author's description on codeproject.com. The feature list is quoted.
 
 ![A screenshot showing the SharpChess window](doc/images/ChessBoard2.png)
@@ -18,7 +20,6 @@ SharpChess makes use of multiple processors but has a primitive board evaluation
 This project welcomes code contributions.
 
 Sections below are directly from the original article, which the original author released according to the license as he stated below. The "Versioning" section was merged into the changelog file as described above. The License section and copyright statement was moved to a new Author & License section.
-
 
 ## License
 "This article, along with any associated source code and files, is licensed under The GNU General Public License (GPLv3)"
