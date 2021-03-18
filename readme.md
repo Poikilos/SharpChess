@@ -9,7 +9,7 @@ I do not maintain this program, only this repo. If you have an issue, please con
 
 Sections below summarize the author's description on codeproject.com. The feature list is quoted.
 
-![A screenshot showing the SharpChess window](images/ChessBoard2.png)
+![A screenshot showing the SharpChess window](doc/images/ChessBoard2.png)
 
 
 ## Introduction
@@ -46,7 +46,7 @@ To further improve the performance of the search, the program uses one thread pe
 
 The program uses a database of book openings. The one provided with the game was built from PGN files. The program also provides a PGN parser so you can build your own openings database using an option on the Tool menu. The parser also allows you to replay chess games downloaded from the Web in PGN format.
 
-![A screenshot of the window titled Select the Game from the PGN File](images/SelectGame.png)
+![A screenshot of the window titled Select the Game from the PGN File](doc/images/SelectGame.png)
 
 
 ## Building an Openings Book
@@ -56,7 +56,7 @@ The program includes a parser that allows you to import and filter the content o
 
 The openings book must be located in the directory containing the executable and named book.bin.
 
-![A screenshot of the window titled Select Filter Criterias](images/Filter.png)
+![A screenshot of the window titled Select Filter Criterias](doc/images/Filter.png)
 
 
 ## What Needs to be Improved?
