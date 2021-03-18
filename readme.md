@@ -19,7 +19,10 @@ SharpChess makes use of multiple processors but has a primitive board evaluation
 
 This project welcomes code contributions.
 
-Sections below are directly from the original article, which the original author released according to the license as he stated below. The "Versioning" section was merged into the changelog file as described above. The License section and copyright statement was moved to a new Author & License section.
+Sections below are directly from the original article, which the original author released according to the license as he stated below. The "Versioning" section was merged into the changelog file as described above. The License section and copyright statement was moved to a new Author & License section. Anything that didn't actually happen yet in the changelog moved to the Planned Features section.
+
+## Planned Features
+- Let users play game via FICS server.
 
 ## License
 "This article, along with any associated source code and files, is licensed under The GNU General Public License (GPLv3)"
